@@ -156,6 +156,7 @@ Section 13: Realworld Job Casestudy #6 : Deploying centralized logging using Ter
 
 
 Section 14: Ansible and Terraform
+
             113. How to install Ansible ?
             114. Ansible inventory
             115. Ansible commands
